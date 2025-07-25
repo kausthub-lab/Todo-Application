@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132507239290",
+    "project_id": "todo-task-kausthub",
+    "storage_bucket": "todo-task-kausthub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132507239290:android:cd415375ed9a4a69044cc3",
+        "android_client_info": {
+          "package_name": "com.example.todo_task_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZdNPa3zswpc93IJsKpHf5bDpkZR1MHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
